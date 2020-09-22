@@ -1,3 +1,4 @@
 hello world
 add branch1
-这是master文件的内容
+<<<<<<< HEAD
+这是master文件的内容,这是branch1分支的内容
